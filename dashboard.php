@@ -79,7 +79,7 @@ session_start();
                 </tbody>
             </table>
         </div>
-        <a href="create.php" class="btn">Tambah Pengguna Baru</a>
+        <a href="register.php" class="btn">Tambah Pengguna Baru</a>
         <!-- Pagination -->
         <div class="pagination">
             <?php if($page > 1): ?>
